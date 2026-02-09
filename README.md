@@ -8,6 +8,8 @@ This project combines **SUMO** (Simulation of Urban Mobility) with **Machine Lea
 3. trains an ML model and saves it  
 4. evaluates the model (scatter plot + MAE)  
 
+**code is kept private**
+
 ## 🎯 Project Goal
 
 The goal is to develop a model that predicts the **next speed** of a vehicle.  
