@@ -59,7 +59,7 @@ The model learns from:
 
 
 <a href="results/simulation.mp4">
-  <img src="results/image.png" width="300">
+  <img src="results/image.png" width="700">
 </a>
 
 
