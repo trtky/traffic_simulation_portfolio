@@ -58,7 +58,9 @@ The model learns from:
 - train a Machine Learning model
 
 
-<video src="results/simulation_2.mp4" controls></video>
+<a href="results/simulation.mp4">
+  <img src="results/image.png" width="300">
+</a>
 
 
 
