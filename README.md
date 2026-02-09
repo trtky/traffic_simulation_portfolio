@@ -58,7 +58,6 @@ The model learns from:
 - train a Machine Learning model
 
 
-
 <video src="results/simulation.mp4" controls width="600"></video>
 
 
@@ -111,3 +110,4 @@ flowchart LR
 
 
 - the result shows high r2 score and a low Mean Absolute Error
+- 
