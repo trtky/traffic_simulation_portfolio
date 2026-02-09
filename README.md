@@ -8,6 +8,9 @@ This project combines **SUMO** (Simulation of Urban Mobility) with **Machine Lea
 3. trains an ML model and saves it  
 4. evaluates the model (scatter plot + MAE)  
 
+This project explores how Machine Learning can enhance traffic simulation by predicting vehicle behavior — a key component in autonomous driving systems
+
+
 **code is kept private**
 
 ## 🎯 Project Goal
