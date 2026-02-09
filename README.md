@@ -58,12 +58,11 @@ The model learns from:
 - train a Machine Learning model
 
 
-<video src="results/simulation.mp4" controls width="600"></video>
+<video src="results/simulation_2.mp4" controls width="600"></video>
 
 
 
 ## Machine Learning
-
 A **neural network** is used in order to determine the velocity of the vehicle for the next time step. 
 
 ### Inputs 
