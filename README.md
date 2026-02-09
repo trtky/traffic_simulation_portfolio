@@ -110,4 +110,3 @@ flowchart LR
 
 
 - the result shows high r2 score and a low Mean Absolute Error
-- 
